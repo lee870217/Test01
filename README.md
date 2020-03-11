@@ -6,3 +6,4 @@
 - man
 - 22years old
 - Taiwaness
+- student
